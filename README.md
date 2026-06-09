@@ -13,4 +13,6 @@ Adegbuyi Korede - adegbuyikorede@gmail.com
 Adediran Adeyosola - adeyosola20507@gmail.com
 Aseyori Abraham - aseyoriabc@gmail.com
 
+Github link: https://github.com/KODEXJOHN123/ICT-215-GROUP-1-MECHATRONICS-DEPARTMENT
+
 Thank You.
